@@ -1,0 +1,1 @@
+INSERT INTO `vc10` (`VC10_NR_VENDA`, `VC10_CD_CAR`, `VC10_VL_PROD`, `VC10_VL_DESC`, `VC10_VL_PAGO`, `VC10_VL_ACRES`, `VC10_ID_COMISS`, `VC10_VL_COMISS`, `VC10_DT_INCSIS`, `VC10_DT_ATUSIS`) VALUES ('1', '1', '15000', '1', '14000', '0', '1', '1400', current_timestamp(), current_timestamp());

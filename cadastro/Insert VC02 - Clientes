@@ -1,0 +1,1 @@
+INSERT INTO `vc02` (`VC02_CD_CLIENT`, `VC02_TP_PESSOA`, `VC02_NM_CLIENT`, `VC02_NR_CPFCNPJ`, `VC02_NR_TEL`, `VC02_NR_CEL`, `VC02_DS_EMAIL`, `VC02_DT_INCSIS`, `VC02_DT_ATUSIS`) VALUES ('1', '1', 'Adalto Amaral Silva', '09890917912', '35560574', '988684896', 'adalto.1974@hotmail.com', current_timestamp(), current_timestamp());
